@@ -1,9 +1,9 @@
-# 🛡️ Portafolio de Ciberseguridad de @Matoriusbig
+# 🛡️ **Guias de estudio de Ciberseguridad de @matoriusbig**
 > Colección de write-ups, guías de estudio y análisis de riesgo de mis certificaciones y laboratorios (CompTIA, OSCP, HTB).
 
 ---
 
-## 👋 ¡Hola! Soy @Matoriusbig
+## 👋 ¡Hola! Soy @matoriusbig
 
 Soy un estudiante de **Ingeniería Informática** apasionado por el hacking 👨‍💻, la ciberseguridad y el análisis de amenazas.
 
