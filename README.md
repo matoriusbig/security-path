@@ -29,11 +29,11 @@ Aquí comenzaré a listar todas las guías de estudio y write-ups, empezando por
 ### 1️⃣ (ISC)² Certified in Cybersecurity (CC)
 Si estas enpezando de 0 en la ciberseguridad como yo, te recomiendo comenzar con esta, es gratuita y reconocida en la industria!
 
-* [Dominio 1: Principios de Seguridad](./CC-Dominio1.md)
-* [Dominio 2: Continuidad del Negocio (BC) y Respuesta a Incidentes](./CC-Dominio2.md)
-* [Dominio 3: Conceptos de Redes y Seguridad](./CC-Dominio3.md)
-* [Dominio 4: Seguridad de Red, Aplicaciones y Operaciones](./CC-Dominio4.md)
-* [Dominio 5: Gobernanza y Gestión de Riesgos](./CC-Dominio5.md)
+* [Dominio 1: Principios de Seguridad](./ISC2-CC/CC-Dominio1.md)
+* [Dominio 2: Continuidad del Negocio (BC) y Respuesta a Incidentes]
+* [Dominio 3: Conceptos de Redes y Seguridad]
+* [Dominio 4: Seguridad de Red, Aplicaciones y Operaciones]
+* [Dominio 5: Gobernanza y Gestión de Riesgos]
 
 ### 2️⃣ CompTIA Security+ (SY0-701)
 *(Próximamente...)*
