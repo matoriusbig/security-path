@@ -65,7 +65,7 @@ La certificación **fundamental** para construir tu base. Cubre los 5 dominios c
 <summary><strong>👤 Dominio 3: Conceptos de Control de Acceso (22%)</strong></summary>
   
   * [3.1 - Conceptos Fundamentales (Sujetos, Objetos, AAA)](./ISC2-CC/Dominio-3/Conceptos-Fundamentales.md)
-  * [3.2 - Controles de Acceso Físico](./ISC2-CC/Dominio-3/Controles-Acceso-Fisico.md)
+  * [3.2 - Controles de Acceso Físico](./ISC2-CC/Dominio-3/Controles-Acceso-Físico.md)
   * [3.3 - Controles de Acceso Lógico (Modelos DAC, MAC, RBAC)](./ISC2-CC/Dominio-3/Controles-Acceso-Logico.md)
   * [3.4 - Gestión de Identidad (PAM, Ciclo de Vida)](./ISC2-CC/Dominio-3/Gestion-de-Identidad.md)
 </details>
