@@ -45,9 +45,9 @@ Navega por las carpetas para encontrar el material de estudio.
 | `▶️` | `TryHackMe` | Mis soluciones y explicaciones de *rooms* populares. |
 | `▶️` | `HackTheBox` | *Write-ups* de máquinas y desafíos. |
 | `▶️` | `Laboratorios-Propios` | Escenarios de *pentesting* y *forense* en mi propio *homelab*. |
-| `📁 03-Universidad-y-Extras` | **Material Complementario:** Apuntes de mi carrera y cursos adicionales. |
-| `▶️` | `Apuntes-Universidad` | Material relevante de la carrera de (Ingeniería/Licenciatura). |
-| `▶️` | `Recursos-GRC` | Plantillas y notas sobre Gobernanza, Riesgo y Cumplimiento. |
+| `📁 03-Herramientas, Blogs, Recursos.` | **Material Complementario:** Apuntes de mi carrera y cursos adicionales. |
+| `▶️` | `Biblioteca de herramientas` | Links de herramientas relevantes de la comunidad. |
+| `▶️` | `Comunidades` | Las mejores comunidades conocidas de ciberseguridad. |
 
 ---
 
