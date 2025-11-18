@@ -106,7 +106,7 @@ Es el proceso de establecer confianza entre dos dispositivos Bluetooth.
 
 ---
 
-## 📝 Resumen Ejecutivo (Key Takeaways)
+## 📝 Resumen:
 
 - **Diversidad de Redes:** Un dispositivo móvil es un hub de comunicaciones que gestiona GPS (ubicación), Cellular (WAN), Wi-Fi (WLAN), Bluetooth (WPAN) y NFC (Proximidad).
 - **La Seguridad es Prioridad:** Como futuros profesionales de ciberseguridad, entendemos que **Wi-Fi Público = Peligro**. El uso de VPNs y protocolos cifrados (WPA2/HTTPS) no es opcional, es obligatorio.
