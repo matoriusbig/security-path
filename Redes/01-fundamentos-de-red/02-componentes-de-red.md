@@ -35,9 +35,7 @@ Aquí es donde conectamos los cables. Históricamente ha habido una evolución i
 | **Eficiencia** | Baja (Muchos errores/colisiones) | Alta (Ancho de banda eficiente) |
 | **Estado Actual** | Obsoleto (Pero aparece en exámenes) | Estándar actual |
 
-> **🖼️ Referencia Visual:** 
->
->![alt text](IMG/switch-vs-hub.png)
+![alt text](IMG/switch-vs-hub.png)
 ---
 
 ### 3. Dirigiendo el Tráfico: Routers y WAPs 🚦
@@ -48,6 +46,9 @@ Ahora que estamos conectados localmente, necesitamos salir al mundo y movernos s
 * **Routers (Enrutadores):**
     Son los **diplomáticos** de la red. Conectan redes *diferentes* entre sí (ej: tu red de casa con Internet).
     * Toman decisiones inteligentes sobre la mejor ruta para los datos basándose en **Direcciones IP**
+
+    <img width="583" height="380" alt="image" src="https://github.com/user-attachments/assets/9e1eb4e0-9dca-4957-81d5-1a8014aef2d0" />
+
 
 ---
 
@@ -61,6 +62,9 @@ La red es un lugar peligroso. Necesitamos protección.
     Actúa como un **intermediario**. Tú le pides algo al Proxy, y el Proxy se lo pide a Internet por ti.
     * Oculta tu dirección IP real y puede filtrar contenido o guardar datos en caché para ir más rápido
 
+    <img width="865" height="613" alt="image" src="https://github.com/user-attachments/assets/8c91200e-3f20-474a-ac58-74d645c92b5e" />
+
+
 #### Detectives vs. Guardaespaldas (IDS vs. IPS)
 Ambos vigilan el tráfico buscando a los "chicos malos" (intrusos), pero reaccionan diferente:
 
@@ -68,6 +72,9 @@ Ambos vigilan el tráfico buscando a los "chicos malos" (intrusos), pero reaccio
 | :--- | :--- | :--- | :--- |
 | **IDS** | Intrusion *Detection* System |**Detecta** y **Alerta** al administrador | Una alarma antirrobo (hace ruido, pero no atrapa al ladrón). |
 | **IPS** | Intrusion *Prevention* System |**Detecta** y **Actúa** (Bloquea/Descarta) | Un guardaespaldas (ve al intruso y lo saca del edificio). |
+
+<img width="589" height="331" alt="image" src="https://github.com/user-attachments/assets/03e7f8ec-675d-47f9-82f0-6dd2351fd9e9" />
+
 
 > **🛡️ Nota:** En el examen, recuerda: si solo "alerta", es IDS. Si "toma medidas" o "bloquea", es IPS.
 
@@ -81,9 +88,13 @@ Cuando la red crece, necesitamos herramientas más potentes.
 * **Controladores (Controllers):**
     El cerebro en las **SDN (Redes Definidas por Software)**. Permiten gestionar todos los switches y routers desde un software centralizado, dándonos flexibilidad total
 
+<img width="434" height="477" alt="image" src="https://github.com/user-attachments/assets/a9398468-062b-4415-91b3-4ec4a9dd24df" />****
+
 #### Almacenamiento de Datos (NAS vs. SAN)
 ***NAS (Network Attached Storage):** Es como un disco duro gigante conectado a la red para compartir archivos fácilmente entre varios clientes
 * **SAN (Storage Area Network):** Una red de *alta velocidad* dedicada solo a almacenamiento.Mueve bloques de datos masivos, usada en grandes empresas para servidores
+
+<img width="657" height="364" alt="image" src="https://github.com/user-attachments/assets/b495b4d8-f550-4088-af9b-4e184d824f36" />
 
 ---
 
@@ -92,6 +103,9 @@ Finalmente, ¿por dónde viajan los datos?
 
 * **Medios (Media):** Los materiales físicos. Cables de cobre, fibra óptica o el aire (inalámbrico).Cada uno tiene sus límites de velocidad y distancia
 * **Enlaces WAN:** Son las superautopistas que conectan ciudades o países (enlaces de larga distancia).Usan satélites, fibra o redes celulares para la conectividad global
+
+<img width="734" height="441" alt="image" src="https://github.com/user-attachments/assets/9d5203f8-01b4-4c82-9b04-3c539817c745" />
+
 
 ---
 
