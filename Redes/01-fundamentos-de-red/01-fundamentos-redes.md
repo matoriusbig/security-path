@@ -19,10 +19,7 @@ Para que puedas ver este curso, ocurre una carrera de relevos digital impresiona
 3.  El Router se conecta a un **Módem**.
 4.  El Módem te abre la puerta a **Internet**.
 
-> 🖼️ **Referencia Visual:** 
->
->![alt text](IMG/image.png)
----
+<img width="609" height="426" alt="image" src="https://github.com/user-attachments/assets/8fd2d5a4-893e-417c-b8da-b7af6b4d5d63" />
 
 ### 2. La Gran Convergencia: Todo en Uno 🤝
 Hace años, el mundo de las comunicaciones era como tener tres carreteras separadas:
