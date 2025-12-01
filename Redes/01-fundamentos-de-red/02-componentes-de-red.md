@@ -35,7 +35,8 @@ Aquí es donde conectamos los cables. Históricamente ha habido una evolución i
 | **Eficiencia** | Baja (Muchos errores/colisiones) | Alta (Ancho de banda eficiente) |
 | **Estado Actual** | Obsoleto (Pero aparece en exámenes) | Estándar actual |
 
-![alt text](IMG/switch-vs-hub.png)
+<img width="829" height="486" alt="image" src="https://github.com/user-attachments/assets/809fd19e-399f-429f-a895-a737adcf69a3" />
+
 ---
 
 ### 3. Dirigiendo el Tráfico: Routers y WAPs 🚦
