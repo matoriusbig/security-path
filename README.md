@@ -14,7 +14,8 @@
 Si estás leyendo esto, probablemente sientas curiosidad por la Ciberseguridad pero no sabes por dónde empezar. **Estás en el lugar correcto.**
 
 Este repositorio es una colección organizada y gratuita de material de estudio. No importa si vienes de la contabilidad, el derecho, la construcción o si acabas de terminar la escuela; aquí encontrarás una hoja de ruta clara para transformarte en un profesional del sector.
-*Hecho con ❤️ y ☕ para la comunidad.*
+
+***Hecho con ❤️ y ☕ para la comunidad.***
 
 ### 🤔 ¿Qué son las Certificaciones y por qué importan?
 
