@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/00-redes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-redes"
+              "title": "README"
             }
           }
         ]
@@ -182,7 +182,17 @@
   },
   "active": "7043badc8830d36b",
   "lastOpenFiles": [
-    "Redes/00-redes.md",
+    "Ciberseguridad/Ciberseguridad.md",
+    "README.md",
+    "Redes/Redes.md",
+    "Ciberseguridad/03-control-de-acceso/02-controles-acceso-fisico.md",
+    "893bb620b71111ef888eca5646afc7d8.webp",
+    "IMG",
+    "893bb620b71111ef888eca5646afc7d8 1.webp",
+    "IMG/Pasted image 20251204171545.png",
+    "IMG/Pasted image 20251204171453.png",
+    "IMG/Pasted image 20251204171357.png",
+    "Ciberseguridad/01-principios-de-seguridad/01-conceptos-de-seguridad.md",
     "Sin título.base",
     "Sin título.canvas",
     "Write-Ups/HTB",
@@ -203,7 +213,6 @@
     "Ciberseguridad/01-principios-de-seguridad/04-gobernanza-seguridad.md",
     "Ciberseguridad/01-principios-de-seguridad/03-controles-de-seguridad.md",
     "Ciberseguridad/01-principios-de-seguridad/02-gestion-riesgos.md",
-    "Ciberseguridad/01-principios-de-seguridad/01-conceptos-de-seguridad.md",
     "Linux/01-Introducción-a-Linux.md"
   ]
 }

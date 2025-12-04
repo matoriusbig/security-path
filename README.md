@@ -1,4 +1,4 @@
-# 📚 La Biblioteca Abierta de Ciberseguridad
+# 📚 CIBER-PATH
 **Bienvenido. Has encontrado el mapa del tesoro para tu carrera en ciberseguridad.**
 
 <p align="center">
@@ -6,28 +6,60 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Matoriusbig/CyberSec-Cert-Mastery?style=for-the-badge&color=green&label=ACTUALIZADO">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge">
 </p>
+---
 
-# 🚀 Hola Futuro Hacker Ético!
+## 👋 ¡Bienvenido/a futuro Hacker!
 
-¡Bienvenido! Si estás leyendo esto, probablemente estés buscando una guía clara para iniciar y triunfar en el mundo de la **ciberseguridad**.
+Si estás leyendo esto, probablemente sientas curiosidad por la Ciberseguridad pero no sabes por dónde empezar. **Estás en el lugar correcto.**
 
-El camino puede parecer confuso, lleno de rutas "rápidas" que no funcionan y una abrumadora cantidad de información. Este repositorio nació de la necesidad de crear un **recurso centralizado, gratuito y de alta calidad.**
+Este repositorio es una colección organizada y gratuita de material de estudio. No importa si vienes de la contabilidad, el derecho, la construcción o si acabas de terminar la escuela; aquí encontrarás una hoja de ruta clara para transformarte en un profesional del sector.
+*Hecho con ❤️ y ☕ para la comunidad.*
 
-Este no es solo un lugar para almacenar notas; es un **PATH PROFESIONAL** y una colección de **guías de estudio** y **write-ups prácticos** .
+### 🤔 ¿Qué son las Certificaciones y por qué importan?
+
+Si eres nuevo en el mundo tech, imagina que una **certificación** es como una "licencia conducir" para tecnologías específicas.
+
+A diferencia de un título universitario que toma 4 o 5 años, una certificación valida que sabes hacer algo específico **ahora mismo**. Sirven para:
+1.  **Validar tu conocimiento:** Demostrar a las empresas que no solo "leíste" sobre el tema, sino que lo entiendes.
+2.  **Filtrar CVs:** Muchos reclutadores buscan estas siglas (como Security+ o CC) para seleccionar candidatos.
+3.  **Estructurar tu aprendizaje:** Te dan un temario claro para no perderte en el mar de información de internet.
+
+> **💡Nota:** Este repositorio te ofrece el material para **preparar** esas certificaciones totalmente GRATIS. Usar este contenido, crear tus propios laboratorios y documentar tu proceso te servirá para crear un **Portafolio Personal**, algo vital para conseguir tu primer empleo.
 
 ---
 
-## 🧭 La Filosofía de Este Repositorio
+## 🏗️ Los 4 Pilares Fundamentales
 
-Inspirado por las grandes comunidades de aprendizaje, este proyecto se basa en tres pilares:
+Antes de intentar hackear la NASA necesitas entender cómo funcionan las cosas. No puedes proteger un edificio si no conoces sus planos.
 
-1.  **🧠 Fundamentos Sólidos Primero:** No puedes defender (o atacar) lo que no entiendes. Antes de correr, dominamos los pilares: **Redes**, **Linux** y **Teoría de Seguridad**.
-2.  **✍️ Material de Calidad:** La mayoria de informacion de este repositorio fue extraida de cursos costosos, mi universidad (Ingenieria en Informática) y plataformas exelentes como Hack The Box, Try Hack Me, Hack4U, Coursera, etc.
-3.  **🌍 Conocimiento Abierto:** La mejor educación debe ser accesible. Todo el material aquí es gratuito y está diseñado para usarse, compartirse y mejorarse.
+Para iniciar, céntrate en estos 4 fundamentos que encontrarás desglosados en este repositorio:
+
+1.  **🌐 Redes (Networking):** Es la carretera por donde viajan los datos. Aprenderás cómo se conectan los ordenadores, qué es una IP y cómo funciona internet.
+2.  **🐧 Linux:** Es el sistema operativo del 90% de los servidores del mundo y la herramienta principal del hacker. Aprenderás a perderle el miedo a la pantalla negra (terminal).
+3.  **💻 Programación (Scripting):** No necesitas ser un desarrollador de software, pero sí necesitas saber leer código y automatizar tareas básicas (Python y Bash son tus amigos).
+4.  **🛡️ Conceptos de Seguridad:** La teoría detrás de la defensa: confidencialidad, integridad, gestión de riesgos y tipos de ataques.
 
 ---
 
-## 💡 Consejos Clave:
+## 🗺️ Tu Hoja de Ruta Sugerida (Roadmap)
+
+Si no sabes en qué orden estudiar, te recomiendo seguir este camino lógico diseñado para ir de "menos a más" dificultad:
+
+### 1. 🎓 Certificado de Ciberseguridad de Google (Coursera)
+* **¿Por qué primero?** Es muy amigable, práctico y toca un poco de todo (Linux, SQL, Python, Redes). Te dará una visión general perfecta para saber si esto te gusta.
+
+### 2. 🎖️ ISC2 Certified in Cybersecurity (CC)
+* **¿Por qué segundo?** Es una certificación oficial de una de las organizaciones más prestigiosas (ISC2). A menudo ofrecen el examen y curso gratis. Es perfecta para tener tu primera victoria rápida y poner una sigla oficial en tu CV.
+
+### 3. 🔌 CompTIA Network+
+* **¿Por qué tercero?** Aquí es donde muchos fallan. Saltan directo a la seguridad sin entender las redes. Esta certificación te dará una base técnica sólida y profunda sobre cómo se mueven los datos. Si dominas las redes, la seguridad es mucho más fácil.
+
+### 4. 🔐 CompTIA Security+
+* **¿Por qué cuarto?** Es el **estándar de oro** para el primer empleo. La mayoría de ofertas de trabajo para "Junior" piden esta certificación. Con la base de las tres anteriores, esta se te hará mucho más llevadera.
+
+---
+
+## 💡 Consejos
 
 * **🇬🇧 El Inglés es tu Multiplicador:** Es **extremadamente importante**. Los mejores recursos, la documentación y los salarios más altos están en inglés. El material aquí te ayudará a iniciarte si no entiendes mucho de ingles, es muy recomendable mientras usas el material de este repositorio estudiar inglés a la vez.
 * **🧑‍🤝‍🧑 El *Networking* es un MUST:** Únete a comunidades (Reddit, Discord, LinkedIn). Es probable que tu primer trabajo venga de una recomendación, no dudes en contactarme si estas comenzando, será un gusto conocerte para mi!.
@@ -36,18 +68,21 @@ Inspirado por las grandes comunidades de aprendizaje, este proyecto se basa en t
 Este campo requiere **aprendizaje constante**. Puede ser frustrante, pero la pasión por entender "cómo funcionan las cosas" es lo que separa a un aficionado de un profesional.
 
 ¡Mucho éxito y *happy hacking*!
+<div align="center">
 
-## 🧭 01-Guias-Certificacion
 
-Aquí comienza el camino serio. Cada certificación es una colección de guías de estudio detalladas con todo el material necesario para aprobar las certicaciones!
 
-### 1. (ISC)² Certified in Cybersecurity (CC)
+</div>
+---
+## 🧭 Material De Estudio
 
-<img width="640" height="234" alt="ISC2_Logo svg" src="https://github.com/user-attachments/assets/effd91b5-4bd2-4efa-93c2-f26d0d2ce6fc" />
+Cada es una colección de material de estudio **(tipo curso)** detalladas con todo lo necesario para aprobar las certicaciones!
 
-La certificación **fundamental** para construir tu base. Cubre los 5 dominios clave de la seguridad y es la puerta de entrada perfecta.
-
-#### 📚 Índice de Estudio (ISC)² CC (Desglose Atómico)
+### 🔒Ciberseguridad:
+ 
+#### 1. (ISC)² Certified in Cybersecurity (CC)
+![[Pasted image 20251204171357.png]]
+Esta colección está enfocada en aprobar el examen de certificación **ISC2 CC**!
 
 <details>
 <summary><strong>🏛️ Dominio 1: Principios de Seguridad (26%)</strong></summary>
@@ -97,29 +132,36 @@ La certificación **fundamental** para construir tu base. Cubre los 5 dominios c
 </details>
 <br>
 
-*...próximamente más certificaciones (CompTIA Security+, etc...)*
+### 🌐Redes:
+#### 1. (CompTIA) Network Administrator (Network+)
+![[Pasted image 20251204171545.png]]
+Esta colección está enfocada en aprobar el examen de certificación **CompTIA Network+**
 
----
+<details>
+<summary><strong>🌐 Dominio 1: Fundamentos de Redes</strong></summary>
 
-## 🔬 Laboratorio de Write-Ups Prácticos
+* [1.1 - Fundamentos](./Redes/01-fundamentos-de-red/01-fundamentos-redes.md)
+* [1.2 - Componentes de la Red](./7Redes/01-fundamentos-de-red/02-componentes-de-red.md)
+* [1.3 - Recuersos de la red](./Redes/01-fundamentos-de-red/03-recursos-de-red.md)
+* [1.4 - Geografía de la red](./Redes/01-fundamentos-de-red/04-geografia-de-la-red.md)
+* [1.5 - Entendiendo Redes Geográficas](./Redes/01-fundamentos-de-red/05-entendiendo-redes-geograficas.md)
+* [1.6 - Topología Red Cableada](./Redes/01-fundamentos-de-red/06-topologia-de-red-cableada.md)
+* [1.7 - Topología Red Inalámbrica](./Redes/01-fundamentos-de-red/07-topologia-de-red-inalambrica.md)
+</details>
 
-El conocimiento teórico (certificaciones) te da la entrevista. La **práctica** (romper máquinas) te da el trabajo.
+<details>
+<summary><strong>📶 Dominio 2: Modelo OSI</strong></summary>
+ [2.1 - Modelo OSI](./Redes/02-modelo-osi/01-modelo-osi.md)
+* [2.2 - Capa 1](./Redes/02-modelo-osi/02-capa-1.md)
+* [2.3 - Capa 2](./Redes/02-modelo-osi/03-capa-2.md)
+* [2.4 - Capa 3](./Redes/02-modelo-osi/04-capa-3.md)
+* [2.5 - Capa 4](./Redes/02-modelo-osi/05-capa-4.md)
+* [2.6 - Capa 5](./Redes/02-modelo-osi/06-capa-5.md)
+* [2.7 - Capa 6](./Redes/02-modelo-osi/07-capa-6.md)
+* [2.8 - Capa 7](./Redes/02-modelo-osi/08-capa-7.md)
+* [2.9 - Encapsulación](./Redes/02-modelo-osi/09-encapsulacion-desencapsulacion.md)
+* [2.10 - Entendiendo el Modelo OSI](./Redes/02-modelo-osi/10-entendiendo-osi.md)
+</details>
 
-Esta sección es mi portafolio de laboratorios prácticos de plataformas como **TryHackMe** y **Hack The Box**. Aquí documento el proceso de vulnerar, escalar privilegios y *rootear* máquinas, explicando el *por qué* de cada paso.
 
-![HacktheBox Logo](https://github.com/user-attachments/assets/bd9334c1-a77d-4acf-845a-1ffb99a23f04)
 
-### 📝 Índice de Máquinas
-
-* **Hack The Box**
-    * [Máquina Fácil: (Próximamente)](./Write-Ups/HTB/Proximamente.md)
-
----
-
-## 🤝 Contribuciones y Licencia
-
-Este es un proyecto vivo. Si encuentras un error, una errata, o tienes una forma mejor de explicar un concepto, ¡no dudes en abrir un *Issue* o un *Pull Request*!
-
-Este repositorio se distribuye bajo la **Licencia MIT**. Eres libre de usar, copiar, modificar y distribuir este trabajo, siempre y cuando des el crédito apropiado.
-
-**¡Happy hacking!**
